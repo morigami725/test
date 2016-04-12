@@ -1,6 +1,6 @@
 <?php
 use Knp\Snappy\Pdf;
-require '../vendor/autoload.phpbbb';
+require '../vendor/autoload.phpaaa';
 
 		error_reporting(E_ALL);
 		ini_set("display_errors", 1);
