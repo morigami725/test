@@ -1,4 +1,4 @@
-	
+	aaa
 <script type="text/javascript">
 
 $(window).scroll(function () {
@@ -31,19 +31,19 @@ function closeFacebox(){
                     <input class=" form-control" id="cname" name="name" minlength="2" type="text" required />
                   </div>
                 </div>
-                
+
                 <div class="form-group ">
                   <label for="cname" class="control-label col-lg-2">Name (required)</label>
                   <div class="col-lg-10">
                   <select class="form-control area_select" name="area"><option value="26">京都府</option><option value="27" selected="selected">大阪府</option><option value="28">兵庫県</option></select>                  </div>
                 </div>
-                
+
                 <div class="form-group ">
                   <label for="cname" class="control-label col-lg-2">Name (required)</label>
                   <div class="col-lg-10">
 					<p class="form-control-static">email@example.com</p>
                 </div>
-                
+
                 <div class="form-group">
                   <div class="col-lg-offset-2 col-lg-10">
                     <button class="btn btn-theme" type="submit">Save</button>
